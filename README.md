@@ -22,7 +22,7 @@ Serve the folder statically, or use the included preview server:
 node serve.mjs
 ```
 
-Then open <http://127.0.0.1:4180>.
+Then open (http://fogline-beta.vercel.app/).
 
 ## Files
 
